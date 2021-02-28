@@ -47,6 +47,7 @@
       "^@assets$": "<rootDir>/src/assets/index.ts",
       "^@components$": "<rootDir>/src/components/index.ts",
       "^@hooks$": "<rootDir>/src/hooks/index.ts",
+      "^@store/(.*)$": "<rootDir>/src/store/$1",
       "^@pages$": "<rootDir>/src/pages/index.ts",
       "^@routes$": "<rootDir>/src/routes/index.ts",
       "^@services$": "<rootDir>/src/services/index.ts",
